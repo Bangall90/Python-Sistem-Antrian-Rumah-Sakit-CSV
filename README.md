@@ -31,7 +31,7 @@ Mengurutkan data pasien berdasarkan nama pasien menggunakan fungsi sorting.
 
 STRUKTUR DATA YANG DIGUNAKAN
 1. Queue  
-Queue digunakan untuk mengelola urutan pasien yang menunggu pelayanan.
+Queue digunakan untuk mengelola urutan pasien yang menunggu pelayanan.  
 Prinsip kerja:  
 Enqueue = Menambahkan pasien ke antrian.  
 Dequeue = Memanggil pasien berikutnya.  
