@@ -25,7 +25,7 @@ Mengubah informasi pasien yang sudah tersimpan.
 5. Hapus Data Pasien (Delete)
 Menghapus data pasien berdasarkan ID.
 6. Panggil Pasien Berikutnya
-Menggunakan Queue untuk memanggil pasien sesuai urutan antrian.
+Menggunakan Queue untuk memanggil pasien pertama yang masih berstatus Menunggu.
 7. Sorting Data
 Mengurutkan data pasien berdasarkan nama pasien menggunakan fungsi sorting.
 
