@@ -1,7 +1,7 @@
 # Python-Sistem-Antrian-Rumah-Sakit-CSV
 
-TUGAS FINAL PROJECT STRUKTUR DATA
-NAMA : MUHAMMAD YUSUF ALI
+TUGAS FINAL PROJECT STRUKTUR DATA  
+NAMA : MUHAMMAD YUSUF ALI  
 NIM : 25416255201034
 
 Sistem Antrian Rumah Sakit merupakan aplikasi berbasis Python yang digunakan untuk mengelola data pasien dan antrian pelayanan rumah sakit menggunakan database flat file (.CSV). Aplikasi ini dibuat untuk memenuhi tugas Final Project Struktur Data dengan menerapkan konsep struktur data, algoritma pencarian, pengurutan, serta operasi CRUD (Create, Read, Update, Delete). Setiap perubahan data akan langsung tersimpan pada file CSV dan dapat dibaca kembali saat aplikasi dijalankan.
