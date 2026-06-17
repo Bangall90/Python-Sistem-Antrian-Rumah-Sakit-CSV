@@ -9,7 +9,7 @@ Sistem Antrian Rumah Sakit merupakan aplikasi berbasis Python yang digunakan unt
 TUJUAN PROYEK
 1. Mengimplementasikan operasi CRUD pada data pasien.
 2. Menggunakan struktur data Queue untuk mengelola antrian pasien.
-3 Menggunakan Hash Map (Dictionary) untuk mempercepat proses pencarian data pasien.
+3. Menggunakan Hash Map (Dictionary) untuk mempercepat proses pencarian data pasien.
 4. Mengimplementasikan algoritma Sorting dan Searching.
 5. Menggunakan file CSV sebagai media penyimpanan data.
 
