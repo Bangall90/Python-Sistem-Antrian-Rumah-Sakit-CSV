@@ -36,12 +36,11 @@ Prinsip kerja:
 Enqueue = Menambahkan pasien ke antrian.  
 Dequeue = Memanggil pasien berikutnya.  
 
-3. Hash Map (Dictionary)  
+2. Hash Map (Dictionary)  
 Hash Map digunakan untuk menyimpan pasangan key-value berupa:  
 {
     "P001": data_pasien
 }
-
 Keuntungan:  
 Pencarian data lebih cepat dibandingkan pencarian linear.  
 
