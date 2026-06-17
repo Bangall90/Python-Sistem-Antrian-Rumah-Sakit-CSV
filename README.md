@@ -40,7 +40,7 @@ Dequeue = Memanggil pasien berikutnya.
 Hash Map digunakan untuk menyimpan pasangan key-value berupa:  
 {
     "P001": data_pasien
-}
+}  
 Keuntungan:  
 Pencarian data lebih cepat dibandingkan pencarian linear.  
 
