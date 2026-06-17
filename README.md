@@ -34,8 +34,8 @@ STRUKTUR DATA YANG DIGUNAKAN
 Queue digunakan untuk mengelola urutan pasien yang menunggu pelayanan.
 
 Prinsip kerja:
-Enqueue → Menambahkan pasien ke antrian.
-Dequeue → Memanggil pasien berikutnya.
+Enqueue = Menambahkan pasien ke antrian.
+Dequeue = Memanggil pasien berikutnya.
 
 2. Hash Map (Dictionary)
 Hash Map digunakan untuk menyimpan pasangan key-value berupa:
