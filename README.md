@@ -31,13 +31,12 @@ Mengurutkan data pasien berdasarkan nama pasien menggunakan fungsi sorting.
 
 STRUKTUR DATA YANG DIGUNAKAN
 1. Queue  
-Queue digunakan untuk mengelola urutan pasien yang menunggu pelayanan.  
-
-Prinsip kerja:  
-Enqueue = Menambahkan pasien ke antrian.  
+Queue digunakan untuk mengelola urutan pasien yang menunggu pelayanan.
+Prinsip kerja:
+Enqueue = Menambahkan pasien ke antrian.
 Dequeue = Memanggil pasien berikutnya.  
 
-2. Hash Map (Dictionary)  
+3. Hash Map (Dictionary)  
 Hash Map digunakan untuk menyimpan pasangan key-value berupa:  
 {
     "P001": data_pasien
