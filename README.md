@@ -6,14 +6,14 @@ NIM : 25416255201034
 
 Sistem Antrian Rumah Sakit merupakan aplikasi berbasis Python yang digunakan untuk mengelola data pasien dan antrian pelayanan rumah sakit menggunakan database flat file (.CSV). Aplikasi ini dibuat untuk memenuhi tugas Final Project Struktur Data dengan menerapkan konsep struktur data, algoritma pencarian, pengurutan, serta operasi CRUD (Create, Read, Update, Delete). Setiap perubahan data akan langsung tersimpan pada file CSV dan dapat dibaca kembali saat aplikasi dijalankan.
 
-TUJUAN PROYEK
+## TUJUAN PROYEK
 1. Mengimplementasikan operasi CRUD pada data pasien.
 2. Menggunakan struktur data Queue untuk mengelola antrian pasien.
 3. Menggunakan Hash Map (Dictionary) untuk mempercepat proses pencarian data pasien.
 4. Mengimplementasikan algoritma Sorting dan Searching.
 5. Menggunakan file CSV sebagai media penyimpanan data.
 
-FITUR UTAMA
+## FITUR UTAMA
 1. Tambah Pasien (Create)  
 Menambahkan data pasien baru ke dalam sistem dan menyimpannya ke file CSV.  
 2. Lihat Data Pasien (Read)  
@@ -29,7 +29,7 @@ Menggunakan Queue untuk memanggil pasien pertama yang masih berstatus Menunggu.
 7. Sorting Data  
 Mengurutkan data pasien berdasarkan nama pasien menggunakan fungsi sorting.  
 
-STRUKTUR DATA YANG DIGUNAKAN
+## STRUKTUR DATA YANG DIGUNAKAN
 1. Queue  
 Queue digunakan untuk mengelola urutan pasien yang menunggu pelayanan.  
 Prinsip kerja:  
@@ -44,14 +44,14 @@ Hash Map digunakan untuk menyimpan pasangan key-value berupa:
 Keuntungan:  
 Pencarian data lebih cepat dibandingkan pencarian linear.  
 
-ALGORITMA YANG DIGUNAKAN:  
+## ALGORITMA YANG DIGUNAKAN:  
 1. Searching  
 Pencarian pasien berdasarkan ID menggunakan Dictionary.  
 
 2. Sorting  
 Pengurutan data pasien berdasarkan nama menggunakan fungsi sorted().  
 
-MENU PROGRAM  
+## MENU PROGRAM  
 1. Tambah Pasien
 2. Tampilkan Data Pasien
 3. Cari Pasien
